@@ -1,0 +1,48 @@
+header {
+    background: hsl(174, 54%, 31%);
+    
+}
+
+body {
+    background: url('http://www.creativehdwallpapers.com/uploads/large/background/cool-blue-abstract-background-wallpaper.jpg')center center no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    height: 75px;
+    width: 175px;
+}
+
+.nav-item {
+    display: inline;
+    margin-right: 15px;
+}
+
+footer {
+    color: salmon;
+    width: 100%;
+    height: 5vh;
+    background: sienna;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 2rem;
+    clear: both;
+}
+
+footer #red {
+    color: red;
+}
+
+.container {
+    height: 500px;
+    width: 49%;
+    color: white;
+}
+
+#left-container {
+    float: left;
+}
+
+#right-container {
+    float: right;
+}
